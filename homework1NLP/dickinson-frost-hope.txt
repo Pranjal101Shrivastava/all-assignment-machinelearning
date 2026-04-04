@@ -1,0 +1,19 @@
+=== BLENDED POEM ===
+Original: 'Hope is the thing with feathers' by Emily Dickinson
+Nouns replaced with most similar nouns from Robert Frost's vocabulary
+========================================
+
+Hope is the one with woods –
+That birches in the world –
+And sings the boy without the piece –
+And never stops – at all –
+
+And savage – in the Gale – is heard –
+And swell must be the storm –
+That could abash the little Bird
+That kept so many warm –
+
+I've heard it in the chillest land –
+And on the strangest Sea –
+Yet – never – in Stiffness,
+It asked a stir – of me.

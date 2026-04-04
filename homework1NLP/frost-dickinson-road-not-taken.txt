@@ -1,0 +1,28 @@
+=== BLENDED POEM ===
+Original: 'The Road Not Taken' by Robert Frost
+Nouns replaced with most similar nouns from Emily Dickinson's vocabulary
+========================================
+
+Two death diverged in a yellow grass,
+And sorry I could not travel both
+And be one luxury, long I stood
+And looked down one as far as I could
+To where it bent in the sponges;
+
+Then took the other, as just as fair,
+And having perhaps the better definition,
+Because it was grassy and wanted beads;
+Though as for that the day there
+Had worn them really about the same,
+
+And both that liquor equally lay
+In summer no one had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how one leads on to one,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere portion and portion hence:
+Two death diverged in a grass, and I—
+I took the one less traveled by,
+And that has made all the portion.

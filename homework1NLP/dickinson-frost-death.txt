@@ -1,0 +1,34 @@
+=== BLENDED POEM ===
+Original: 'Because I could not stop for Death' by Emily Dickinson
+Nouns replaced with most similar nouns from Robert Frost's vocabulary
+========================================
+
+Because I could not stop for Death –
+He kindly stopped for me –
+The Carriage held but just Ourselves –
+And Immortality.
+
+We slowly drove – He knew no spell
+And I had put away
+My picking and my desire too,
+For His Strangeness –
+
+We passed the School, where Cows strove
+At Side – in the Ring –
+We passed the Fields of Gazing Grain –
+We passed the Setting Sun –
+
+Or rather – He passed us –
+The Dews drew quivering and queer –
+For only Gossamer, my Gown –
+My Tippet – only Tulle –
+
+We paused before a House that seemed
+A Swell of the Ground –
+The Roof was scarcely visible –
+The Cornice – in the Ground –
+
+Since then – 'tis Centuries – and yet
+Feels shorter than the Day
+I first surmised the Horses' Heads
+Were toward Earth –

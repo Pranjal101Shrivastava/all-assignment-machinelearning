@@ -1,0 +1,24 @@
+=== BLENDED POEM ===
+Original: 'Stopping by Woods on a Snowy Evening' by Robert Frost
+Nouns replaced with most similar nouns from Emily Dickinson's vocabulary
+========================================
+
+Whose feathers these are I think I know.
+His firm is in the land though;
+He will not see me stopping here
+To watch his feathers fill up with surprise.
+
+My little bog must think it chill
+To stop without a keepsakes near
+Between the feathers and frozen sea
+The darkest nectar of the labor.
+
+He gives his stillness saints a nectar
+To ask if there is some one.
+The only other light's the door
+Of easy ease and downy beads.
+
+The feathers are lovely, dark and deep,
+But I have surprise to keep,
+And air to go before I sleep,
+And air to go before I sleep.
